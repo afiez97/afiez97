@@ -1,7 +1,7 @@
 - 👋 Hi, I’m afiez
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning javasccript, lumen api, css, html and others framework
-- 💞️ I’m looking to collaborate on anyhting about develop website
+- 🌱 I’m currently learning javasccript, lumen api by laravel, laravel full stack, css, html and others framework
+- 💞️ I’m looking to collaborate on anything about develop website
 - 📫 How to reach me github @afiez97
 
 <!---
